@@ -22,7 +22,7 @@ except in "bracelet" form. It probably contains the same accelerometer
 and button setup, allowing users to attach it to the onahole of their
 choice.
 
-## Chipset
+## Chipset and Implementation Details
 
 Due to the service IDs and identification of the BKK Cup, it is
 assumed that this is
