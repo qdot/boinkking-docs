@@ -1,4 +1,8 @@
-# boinkking-docs
+# boinkking-docs - DEPRECATED
+
+**DEPRECATED** - Will move to
+[STPIHKAL](https://stpihkal.docs.buttplug.io) at some point in the
+near future.
 
 [![](https://api.travis-ci.org/metafetish/boinkking-docs.svg?branch=master)](https://travis-ci.org/metafetish/boinkking-docs) [![](https://readthedocs.org/projects/boinkking/badge/?version=latest)](http://libboinkking.readthedocs.io) [![Patreon donate button](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/qdot)
 
